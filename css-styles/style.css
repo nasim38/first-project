@@ -1,0 +1,9 @@
+.blog {
+  margin: 10px 20px 10px 5px;
+  padding: 10px;
+  background-color: bisque;
+  color: darkslategrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
